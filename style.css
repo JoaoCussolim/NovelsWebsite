@@ -1,0 +1,178 @@
+body {
+    background-color: #121212; /* Fundo geral bem escuro */
+    color: #e0e0e0;           /* Cor do texto principal (cinza claro) */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.7; /* Aumenta um pouco o espaçamento entre linhas */
+}
+
+.novel-container {
+    max-width: 800px;
+    margin: 20px auto; /* Adiciona margem em cima e embaixo também */
+    background-color: #1e1e1e; /* Fundo do container um pouco mais claro que o body */
+    padding: 25px 35px;      /* Mais padding interno */
+    border-radius: 5px;      /* Bordas levemente arredondadas */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3); /* Sombra mais sutil */
+}
+
+/* --- CABEÇALHO --- */
+header {
+    text-align: left; /* Alinha o texto do cabeçalho à esquerda */
+    margin-bottom: 20px;
+}
+
+header #novel-main-title { /* Título principal da Novel */
+    font-size: 2em; /* Maior */
+    color: #ffffff;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+header #chapter-title { /* Título do Capítulo */
+    font-size: 1.6em; /* Um pouco menor que o título da novel */
+    color: #f0f0f0; /* Quase branco */
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: normal; /* Ou bold, dependendo da preferência */
+}
+
+header #chapter-subtitle { /* Subtítulo como "Prólogo" ou "Regras de Combate" */
+    font-size: 1.1em;
+    color: #b0b0b0; /* Cinza mais claro */
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-style: normal; /* A imagem de referência não parece itálico aqui */
+}
+
+.meta-info { /* Para informações como "Postado por..." */
+    font-size: 0.85em;
+    color: #999999;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* --- BOTÕES DE NAVEGAÇÃO --- */
+.top-nav, .bottom-nav {
+    display: flex;
+    justify-content: space-between; /* Mantém espaço entre os itens */
+    align-items: center;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #333333; /* Linha divisória sutil */
+}
+
+.bottom-nav {
+    margin-top: 25px;
+    border-top: 1px solid #333333; /* Linha divisória sutil */
+    border-bottom: none;
+    padding-top: 15px;
+}
+
+.nav-button, .index-button {
+    background-color: #333333; /* Fundo do botão mais escuro */
+    color: #cccccc;           /* Texto do botão cinza claro */
+    border: 1px solid #484848; /* Borda sutil */
+    padding: 8px 18px;        /* Ajuste no padding */
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: background-color 0.2s ease, border-color 0.2s ease; /* Transição suave */
+}
+
+.nav-button:hover, .index-button:hover {
+    background-color: #454545;
+    border-color: #606060;
+    color: #ffffff;
+}
+
+.nav-button:disabled {
+    background-color: #252525;
+    color: #666666;
+    border-color: #383838;
+    cursor: not-allowed;
+}
+
+/* --- CONTEÚDO DO CAPÍTULO --- */
+#chapter-content {
+    margin-top: 20px;
+}
+
+#chapter-content p {
+    text-indent: 2.5em;
+    margin-bottom: 1.2em;
+    color: #dcdcdc;
+    text-align: justify;
+    font-size: 1em;
+    font-weight: 600; /* Ou 600 para semi-bold - depende da fonte! */
+}
+
+#chapter-content p b,
+#chapter-content p strong {
+    font-weight: bold; /* Ou 700, que é o padrão para 'bold' */
+    color: #e8e8e8; /* Pode dar um leve destaque na cor também, se quiser */
+}
+
+/* --- RODAPÉ --- */
+footer {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #333333; /* Linha divisória sutil */
+    text-align: center;
+    font-size: 0.8em;
+    color: #888888;
+}
+
+/* --- ESTILOS PARA A PÁGINA DE ÍNDICE (indice.html) --- */
+
+.index-page header #novel-main-title-index { /* Título principal na página de índice */
+    font-size: 2em;
+    color: #ffffff;
+    margin-bottom: 25px;
+    text-align: center; /* Centralizado na página de índice */
+}
+
+.chapter-list-container {
+    margin-top: 20px;
+}
+
+#chapter-table {
+    width: 100%;
+    border-collapse: collapse; /* Remove espaço entre bordas das células */
+    background-color: #222222; /* Fundo da tabela um pouco diferente do container */
+}
+
+#chapter-table th,
+#chapter-table td {
+    text-align: left;
+    padding: 12px 15px; /* Espaçamento interno das células */
+    border-bottom: 1px solid #383838; /* Linha sutil entre as linhas */
+}
+
+#chapter-table th { /* Cabeçalho da tabela */
+    background-color: #2a2a2a; /* Um tom um pouco mais escuro para o cabeçalho */
+    color: #e0e0e0;
+    font-weight: bold;
+    font-size: 0.95em;
+}
+
+#chapter-table td { /* Células de dados */
+    color: #cccccc;
+    font-size: 0.9em;
+}
+
+#chapter-table tbody tr:hover {
+    background-color: #333333; /* Cor ao passar o mouse sobre uma linha */
+    cursor: pointer;
+}
+
+#chapter-table tbody tr:last-child td {
+    border-bottom: none; /* Remove a borda da última linha */
+}
+
+/* Link "Voltar ao Leitor" no rodapé do índice */
+.index-page footer .nav-button {
+    display: inline-block; /* Para que padding e margin funcionem bem */
+    margin-bottom: 15px;
+}
