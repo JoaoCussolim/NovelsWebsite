@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         chapters.forEach((chapter) => {
             const numericPartOfTitle = parseInt(chapter.title.split(' ')[1]);
-            const chapterNumberForLink = numericPartOfTitle + 1;
+            const chapterNumberForLink = numericPartOfTitle;
 
             const row = document.createElement('tr');
             row.addEventListener('click', () => {
