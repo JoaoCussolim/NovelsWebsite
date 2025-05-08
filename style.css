@@ -105,7 +105,12 @@ header #chapter-subtitle { /* Subtítulo como "Prólogo" ou "Regras de Combate" 
     color: #dcdcdc;
     text-align: justify;
     font-size: 1em;
-    font-weight: 600; /* Ou 600 para semi-bold - depende da fonte! */
+    font-weight: 600;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 #chapter-content p b,
