@@ -1,0 +1,54 @@
+O mundo voltou a existir com a sensação de calor na pele e o cheiro de poeira. Chico piscou, a luz do sol de um azul impossível o cegando por um instante. A vertigem da assimilação, a imagem da figura sombria, tudo parecia um pesadelo febril. Mas a aspereza da terra sob seus dedos e o peso de seu próprio corpo eram inegavelmente reais. Ele estava de volta. Mas não no mesmo lugar.
+
+Levantou-se, o corpo dolorido, e olhou em volta. A estrada de terra ocre se estendia em duas direções, um risco solitário cortando um mar de grama alta e árvores de folhagens estranhas, quase geométricas. Não havia postes, nem fios, nem o menor sinal da civilização que conhecia. O ar era limpo de uma forma que ele nunca havia experienciado, carregando apenas o cheiro de verde e de terra.
+
+“Olá?”, sua voz soou fraca, engolida pelo silêncio. Nenhuma resposta.
+
+O primeiro dia foi um borrão de confusão e pânico crescente. A sede chegou primeiro, uma lixa na garganta que o forçou a andar. Ele seguiu a estrada por horas, esperando encontrar um rio, uma casa, qualquer coisa. Não encontrou nada. Ao entardecer, a fome se juntou à sede, um nó dolorido em seu estômago.
+
+A primeira noite foi o verdadeiro terror. O sol se pôs com uma velocidade alarmante, e o calor do dia deu lugar a um frio que penetrava seus ossos. Sua camiseta e calça jeans, tão normais horas antes, agora eram uma proteção patética. Ele tentou, com a lógica de um homem da cidade, fazer uma fogueira, esfregando galhos secos até suas mãos ficarem em carne viva. A única coisa que conseguiu foram farpas e frustração. Ele se encolheu na base de uma das árvores estranhas, tremendo incontrolavelmente, cada estalo de um galho na escuridão, cada uivo distante, o som de sua morte iminente. Ele não era um professor de informática ali; era apenas presa.
+
+Duas semanas depois, o desespero havia se tornado uma rotina. A fome era uma companheira constante e o céu azul, uma piada cruel. Chico não era mais o mesmo homem. Estava mais magro, a barba por fazer lhe dava um ar selvagem, e suas roupas estavam sujas e rasgadas. Ele havia aprendido. Aprendeu que certas raízes que encontrava na beira da estrada podiam ser mastigadas para obter um líquido amargo, mas que matava a sede. Aprendeu a fazer armadilhas toscas que, uma vez, com sorte cega, pegaram um animal pequeno e rápido que ele assou mal em uma fogueira que finalmente conseguira acender.
+
+Sua mente, sua maior ferramenta, havia se adaptado. Ele não pensava mais em código, mas em padrões. O padrão do vento, o padrão de migração dos pássaros estranhos, o padrão de crescimento das plantas.
+
+Foi em uma tarde como qualquer outra, enquanto analisava a estrada à frente, que um novo padrão surgiu: um som. O rangido rítmico de madeira e o trote pesado de grandes animais.
+
+Seu instinto, agora afiado pela necessidade, gritou. Ele mergulhou na grama alta, o coração batendo forte. Uma carroça, puxada por duas criaturas que pareciam uma versão mais robusta e peluda de cavalos, estava vindo em sua direção. Sentado no banco, um homem velho de rosto curtido pelo sol guiava os animais.
+
+Chico observou, e algo em sua percepção mudou. O mundo tremeluziu, como a tela de um monitor antigo, e por um instante, ele viu através da realidade. Flutuando sobre o carroceiro e seu veículo, em letras de um verde-pálido, surgiram os dados.
+
+[Entidade: Carroceiro, Barnabé]
+status: {cansaço: 8/10, fome: 5/10}
+intenção: {chegar_a_Ponente_antes_do_anoitecer}
+índice_de_ameaça: nulo
+
+[Entidade: Cavalo de Carga (x2)]
+stamina: 38%
+estado: {sobrecarregado, dócil}
+
+Aquela habilidade. A visão que havia se manifestado em seus momentos de maior desespero, que o salvara de comer as frutas erradas e o guiara para uma fonte de água. Ele não a controlava, mas ela estava lá, um "modo de depuração" para o mundo. Os dados eram claros. O homem não era uma ameaça. Era uma oportunidade.
+
+Tomando uma decisão calculada, Chico se levantou da grama alta quando a carroça estava a poucos metros de distância.
+
+O velho Barnabé puxou as rédeas com um solavanco, os olhos se arregalando ao ver a figura magra e suja aparecer do nada. Sua mão foi instintivamente para um pequeno machado que descansava ao seu lado.
+
+índice_de_ameaça: baixo (nível de alerta elevado)
+
+“Calma, senhor,” disse Chico, levantando as mãos lentamente, a voz rouca pelo desuso. “Eu não quero problemas. Estou perdido. Só preciso de ajuda para chegar à próxima cidade.”
+
+Barnabé o analisou de cima a baixo, seus olhos demorando nas roupas estranhas. “Perdido, é? Você não parece ser daqui.”
+
+“E não sou,” Chico respondeu, escolhendo a verdade parcial. “Tive uns problemas na estrada. Qualquer ajuda seria... uma bênção.”
+
+O velho coçou a barba grisalha, seu status de alerta diminuindo. Ele olhou para o sol, que já começava a descer no horizonte.
+
+intenção: {avaliando_risco, pressionado_pelo_tempo}
+
+“Ponente fica a meio dia de caminhada. Você não chegaria antes de as criaturas da noite saírem,” disse Barnabé, por fim. “Suba aí na parte de trás. Mas se tentar qualquer gracinha, vai conhecer o meu machado de perto.”
+
+índice_de_ameaça: nulo
+
+“Obrigado,” disse Chico, um alívio genuíno inundando seu peito. “Muito obrigado.”
+
+Ele contornou a carroça e subiu na parte de trás, entre sacos de grãos e algumas caixas de madeira. Quando a carroça voltou a se mover com um solavanco, Chico olhou uma última vez para a estrada vazia que havia sido sua casa e sua prisão. Pela primeira vez em semanas, ele estava indo a algum lugar.
