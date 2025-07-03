@@ -1,48 +1,48 @@
-O mundo de Chico se reduziu ao ritmo da carroça. Um solavanco constante que sacudia seus ossos, o rangido da madeira, o cheiro forte dos animais misturado ao de grãos e poeira. Ele estava sentado na parte de trás, encolhido entre os sacos, observando a paisagem passar numa lentidão torturante. Barnabé não falava muito, e Chico agradecia por isso. O silêncio lhe dava tempo para pensar, para processar a mudança sísmica em sua situação.
+Meu mundo se reduziu ao ritmo da carroça. Um solavanco constante que sacudia meus ossos, o rangido da madeira, o cheiro forte dos animais misturado ao de grãos e poeira. Eu estava sentado na parte de trás, encolhido entre os sacos, observando a paisagem passar numa lentidão torturante. Barnabé não falava muito, e eu agradecia por isso. O silêncio me dava tempo para pensar, para processar a mudança sísmica em minha situação.
 
-De vez em quando, ele ativava sua "visão". As variáveis do velho carroceiro permaneciam as mesmas, seu cansaço aumentando a cada hora que passava. [índice_de_ameaça: nulo] ainda brilhava de forma tranquilizadora. Era um poder estranho, passivo. Uma ferramenta de análise que lhe dava uma vantagem invisível, mas não lhe oferecia nenhuma força real. Ele não podia consertar a roda bamba da carroça com um pensamento, nem dar mais estamina aos cavalos. Ele só podia saber que a roda estava bamba e que os cavalos estavam cansados. E, por enquanto, isso teria que bastar.
+De vez em quando, eu ativava minha "visão". As variáveis do velho carroceiro permaneciam as mesmas, seu cansaço aumentando a cada hora que passava. [índice_de_ameaça: nulo] ainda brilhava de forma tranquilizadora. Era um poder estranho, passivo. Uma ferramenta de análise que me dava uma vantagem invisível, mas não me oferecia nenhuma força real. Eu não podia consertar a roda bamba da carroça com um pensamento, nem dar mais estamina aos cavalos. Eu só podia saber que a roda estava bamba e que os cavalos estavam cansados. E, por enquanto, isso teria que bastar.
 
-O balanço monótono da carroça, o calor do sol... sua mente começou a vaguear, puxada para trás no tempo, para o abismo das últimas semanas. Para o momento em que a fome era uma navalha em seu estômago.
+O balanço monótono da carroça, o calor do sol... minha mente começou a vaguear, puxada para trás no tempo, para o abismo das últimas semanas. Para o momento em que a fome era uma navalha em meu estômago.
 
-...três dias sem comer. A fraqueza era tanta que a visão de Chico se turvava nas bordas. Ele havia encontrado um arbusto com pequenas frutas vermelhas, quase idêntico a outro que vira antes, cujas frutas o fizeram vomitar por uma noite inteira. Morrer de fome ou morrer envenenado? O dilema era paralisante.
+...três dias sem comer. A fraqueza era tanta que minha visão se turvava nas bordas. Eu havia encontrado um arbusto com pequenas frutas vermelhas, quase idêntico a outro que vira antes, cujas frutas me fizeram vomitar por uma noite inteira. Morrer de fome ou morrer envenenado? O dilema era paralisante.
 
-Ele pegou uma das frutinhas, o desespero nublando seu raciocínio. "Preciso validar os dados antes de executar," um fragmento de uma de suas aulas ecoou em sua mente febril. A frase era absurda ali, mas seu cérebro se agarrou à lógica, à única coisa que ainda fazia sentido. Ele fechou os olhos, concentrando-se não na fruta em si, mas no conceito dela, em suas propriedades. Validar. Inspecionar.
+Eu peguei uma das frutinhas, o desespero nublando meu raciocínio. "Preciso validar os dados antes de executar," um fragmento de uma de minhas aulas ecoou em minha mente febril. A frase era absurda ali, mas meu cérebro se agarrou à lógica, à única coisa que ainda fazia sentido. Fechei os olhos, concentrando-me não na fruta em si, mas no conceito dela, em suas propriedades. Validar. Inspecionar.
 
-E então, aconteceu. Pela primeira vez de forma clara e intencional, o mundo se abriu para ele. Suspenso no ar, ao lado da fruta em sua mão, um texto verde-pálido tremeluziu:
+E então, aconteceu. Pela primeira vez de forma clara e intencional, o mundo se abriu para mim. Suspenso no ar, ao lado da fruta em minha mão, um texto verde-pálido tremeluziu:
 
 [Objeto: Baga Silvestre]
 Propriedades: {Aparência: Doce}, {Cheiro: Neutro}
 Efeito_Primário: [is_poisonous: true]
 Nível_Toxina: {Moderado (induz paralisia neuromuscular)}
 
-Ele deixou a fruta cair como se fosse uma brasa. Trêmulo, ele se virou para outro arbusto próximo, um que ele havia ignorado. Focou novamente, com mais facilidade desta vez.
+Eu deixei a fruta cair como se fosse uma brasa. Trêmulo, me virei para outro arbusto próximo, um que eu havia ignorado. Foquei novamente, com mais facilidade desta vez.
 
 [Objeto: Amora do Campo]
 Propriedades: {Sabor: Azedo}, {Nutrição: Baixa}
 Efeito_Primário: [is_poisonous: false]
 
-Um soluço de alívio escapou de seus lábios. Ele não tinha poder para mudar a realidade. Mas, céus, ele podia lê-la. E naquele mundo, ler era sobreviver.
+Um soluço de alívio escapou de meus lábios. Eu não tinha poder para mudar a realidade. Mas, céus, eu podia lê-la. E naquele mundo, ler era sobreviver.
 
 "Chegamos."
 
-A voz grave de Barnabé o tirou da memória como um balde de água fria. Chico piscou, o presente se reafirmando. A carroça havia parado. À frente deles, erguia-se uma paliçada de madeira rústica, com uns cinco metros de altura. Um portão, vigiado por dois homens com armaduras de couro e lanças, era a única entrada. Era uma vila. Era Ponente.
+A voz grave de Barnabé me tirou da memória como um balde de água fria. Eu pisquei, o presente se reafirmando. A carroça havia parado. À nossa frente, erguia-se uma paliçada de madeira rústica, com uns cinco metros de altura. Um portão, vigiado por dois homens com armaduras de couro e lanças, era a única entrada. Era uma vila. Era Ponente.
 
-"Obrigado," disse Chico, a voz ainda um pouco distante. "De verdade. Eu lhe devo uma."
+"Obrigado," eu disse, a voz ainda um pouco distante. "De verdade. Eu lhe devo uma."
 
 "Não deve nada. Apenas não cause problemas," resmungou Barnabé. "Se precisa de um lugar para dormir, a estalagem do Javali Caolho é barata. Se precisa de trabalho, fale com a Mestra Ferreiro. E se precisa de comida..." ele fez um gesto com a cabeça para o centro da vila, "siga seu nariz."
 
-Chico desceu da carroça, suas pernas bambas. Ao atravessar os portões, uma onda de informação quase o derrubou. Dezenas de pessoas, barracas, animais, edifícios... cada um com suas próprias variáveis, suas próprias intenções e status, piscando em sua visão periférica. Era uma sobrecarga de dados. Ele se concentrou, forçando a "visão" a recuar até se tornar um zumbido de fundo em sua mente.
+Eu desci da carroça, minhas pernas bambas. Ao atravessar os portões, uma onda de informação quase me derrubou. Dezenas de pessoas, barracas, animais, edifícios... cada um com suas próprias variáveis, suas próprias intenções e status, piscando em minha visão periférica. Era uma sobrecarga de dados. Me concentrei, forçando a "visão" a recuar até se tornar um zumbido de fundo em minha mente.
 
-O cheiro que Barnabé mencionou o guiou. Vinha de uma praça central onde um mercado improvisado estava montado. O aroma de carne assada era torturante e maravilhoso. Ele se aproximou de uma barraca onde um homem corpulento vendia espetos de carne para viajantes. A fome era tão intensa que ele quase entregou as poucas moedas estranhas que encontrara em uma bolsa abandonada na estrada.
+O cheiro que Barnabé mencionou me guiou. Vinha de uma praça central onde um mercado improvisado estava montado. O aroma de carne assada era torturante e maravilhoso. Aproximei-me de uma barraca onde um homem corpulento vendia espetos de carne para viajantes. A fome era tão intensa que eu quase entreguei as poucas moedas estranhas que encontrara em uma bolsa abandonada na estrada.
 
-Mas o hábito, nascido da necessidade, era mais forte. Ele focou no espeto que o homem lhe oferecia. O "inspetor de elementos" se abriu em sua mente. Ele esperava ver algo simples, como [Comida: Espeto de Javali].
+Mas o hábito, nascido da necessidade, era mais forte. Eu foquei no espeto que o homem me oferecia. O "inspetor de elementos" se abriu em minha mente. Eu esperava ver algo simples, como [Comida: Espeto de Javali].
 
-O que ele leu, no entanto, o fez engolir em seco.
+O que eu li, no entanto, me fez engolir em seco.
 
 [Objeto: Espeto de Rato-Lagarto]
 Propriedades: {Nutrição: Baixa}, {Sabor: Disfarçado com ervas}
 Efeito_Oculto: [On_Consume: Chance(15%) de contrair 'Febre do Pântano']
 
-Chico recuou um passo, a fome subitamente esquecida e substituída por um nó de repulsa no estômago. O vendedor sorridente não era apenas um comerciante; era um perigo ambulante.
+Eu recuei um passo, a fome subitamente esquecida e substituída por um nó de repulsa no estômago. O vendedor sorridente não era apenas um comerciante; era um perigo ambulante.
 
-Ele olhou ao redor, para as outras barracas, para as pessoas negociando, para os guardas conversando. Aparentemente, nem toda ameaça neste mundo vinha com garras e dentes. Algumas vinham com um sorriso e um espeto na mão.
+Eu olhei ao redor, para as outras barracas, para as pessoas negociando, para os guardas conversando. Aparentemente, nem toda ameaça neste mundo vinha com garras e dentes. Algumas vinham com um sorriso e um espeto na mão.

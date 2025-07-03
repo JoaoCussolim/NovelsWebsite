@@ -1,48 +1,48 @@
 <b>Ponto de vista de Francisco</b>
 
-O cheiro de café fresco e do antisséptico suave que se tornara a fragrância de fundo da sua vida saudou Francisco quando o sol começou a lançar seus primeiros raios tímidos pela janela da cozinha. Ele se movia pelo apartamento pequeno com a eficiência silenciosa de uma rotina gravada em seus ossos. Primeiro a água para o café, depois separar os comprimidos de sua mãe em um pequeno prato de porcelana, alinhados na ordem exata.
+O cheiro de café fresco e do antisséptico suave que se tornara a fragrância de fundo da minha vida me saudou quando o sol começou a lançar seus primeiros raios tímidos pela janela da cozinha. Eu me movia pelo apartamento pequeno com a eficiência silenciosa de uma rotina gravada em meus ossos. Primeiro a água para o café, depois separar os comprimidos de minha mãe em um pequeno prato de porcelana, alinhados na ordem exata.
 
-Ele entrou no quarto dela, onde Dona Helena já estava acordada, o olhar perdido na paisagem urbana que se desdobrava lá fora.
+Entrei no quarto dela, onde Dona Helena já estava acordada, o olhar perdido na paisagem urbana que se desdobrava lá fora.
 
 “Bom dia, minha rainha. Dormiu bem?”
 
 Ela se virou, e um sorriso cansado, mas genuíno, iluminou seu rosto enrugado. “Meu filho. Sonhei com o seu pai. Ele estava consertando aquele rádio antigo que ficava na sala, lembra? Aquele que só pegava uma estação.”
 
-“Lembro, mãe. Lembro bem,” disse Chico, o sorriso dele espelhando o dela enquanto a ajudava a se sentar na beira da cama. “Ele passava horas naquilo. Agora, vamos tomar os remédios e depois um café da manhã de campeã.”
+“Lembro, mãe. Lembro bem,” eu disse, meu sorriso espelhando o dela enquanto eu a ajudava a se sentar na beira da cama. “Ele passava horas naquilo. Agora, vamos tomar os remédios e depois um café da manhã de campeã.”
 
-A interação era um ritual de ternura. Ele entregou cada pílula com um copo d’água, esperando pacientemente que ela engolisse. Havia momentos em que a mente dela vacilava, perguntando que dia era ou se ele já estava de saída para a “escola de computadores”. Ele respondia sempre com a mesma calma, o mesmo afeto. Por um instante, enquanto a observava, o peso da fragilidade dela o atingiu. Toda a sua luta diária era para preservar aquela mente, aquela essência que ele amava mais que tudo.
+A interação era um ritual de ternura. Eu entregava cada pílula com um copo d’água, esperando pacientemente que ela engolisse. Havia momentos em que sua mente vacilava, perguntando que dia era ou se eu já estava de saída para a “escola de computadores”. Eu respondia sempre com a mesma calma, o mesmo afeto. Por um instante, enquanto a observava, o peso da fragilidade dela me atingiu. Toda a minha luta diária era para preservar aquela mente, aquela essência que eu amava mais que tudo.
 
-Depois de deixá-la acomodada em sua poltrona favorita na sala, com a TV ligada em um programa matinal, ele pegou sua mochila. Antes de sair, beijou-lhe a testa.
+Depois de deixá-la acomodada em sua poltrona favorita na sala, com a TV ligada em um programa matinal, peguei minha mochila. Antes de sair, beijei-lhe a testa.
 
-“Você é um bom menino, Francisco,” disse ela, a mão fina pousando sobre a dele. “Sempre gostou de montar e desmontar as coisas. De fazer funcionar.”
+“Você é um bom menino, Francisco,” disse ela, a mão fina pousando sobre a minha. “Sempre gostou de montar e desmontar as coisas. De fazer funcionar.”
 
-“Aprendi com o melhor,” ele piscou para ela e fechou a porta suavemente atrás de si.
+“Aprendi com o melhor,” eu pisquei para ela e fechei a porta suavemente atrás de mim.
 
-A sala de aula na escola técnica fervilhante com a energia inquieta de adolescentes. Notebooks abertos exibiam desde linhas de código até redes sociais. Mas quando o Professor Chico começava a falar, até os mais distraídos erguiam o olhar. Ele não lecionava atrás de uma mesa; ele dominava o espaço, andando entre as carteiras, sua paixão uma força quase tangível.
+A sala de aula na escola técnica fervilhava com a energia inquieta de adolescentes. Notebooks abertos exibiam desde linhas de código até redes sociais. Mas quando eu começava a falar, até os mais distraídos erguiam o olhar. Eu não lecionava atrás de uma mesa; eu dominava o espaço, andando entre as carteiras, minha paixão uma força quase tangível.
 
-“Pessoal, esqueçam o if/else por um segundo,” disse ele, parando no centro da sala. “Pensem nisso: cada linha de código que vocês escrevem é um feitiço. Uma instrução para dar vida a um objeto inanimado. A gente reclama de legacy code, código antigo, como se fosse uma assombração. E de certa forma, é. É o fantasma de um programador, suas decisões, suas soluções, congeladas no tempo. E o nosso trabalho, às-vezes, é fazer arqueologia. É cavar esses túmulos digitais e entender o que o criador estava pensando.”
+“Pessoal, esqueçam o if/else por um segundo,” eu disse, parando no centro da sala. “Pensem nisso: cada linha de código que vocês escrevem é um feitiço. Uma instrução para dar vida a um objeto inanimado. A gente reclama de legacy code, código antigo, como se fosse uma assombração. E de certa forma, é. É o fantasma de um programador, suas decisões, suas soluções, congeladas no tempo. E o nosso trabalho, às vezes, é fazer arqueologia. É cavar esses túmulos digitais e entender o que o criador estava pensando.”
 
-Ele projetou na tela principal a imagem de uma interface de terminal com um código arcaico.
+Eu projetei na tela principal a imagem de uma interface de terminal com um código arcaico.
 
-“Eu passei a semana explorando uns fóruns obscuros... a deep web dos nerds, sabem? E encontrei algo que nunca vi. Um projeto chamado ‘Animus Machina’. O repositório no GitHub está corrompido, a data de criação aponta para 1903. Impossível, claro. Mas o código...” Ele fez uma pausa, os olhos brilhando. “É uma poesia. É como se alguém estivesse tentando traduzir engrenagens e vapor para uma linguagem lógica. Está incompleto, abandonado. Mas hoje à noite, depois da aula, quem quiser ficar, vai me ver tentar fazer um pouco de mágica. Vamos tentar ressuscitar um fantasma.”
+“Eu passei a semana explorando uns fóruns obscuros... a deep web dos nerds, sabem? E encontrei algo que nunca vi. Um projeto chamado ‘Animus Machina’. O repositório no GitHub está corrompido, a data de criação aponta para 1903. Impossível, claro. Mas o código...” Fiz uma pausa, meus olhos brilhando. “É uma poesia. É como se alguém estivesse tentando traduzir engrenagens e vapor para uma linguagem lógica. Está incompleto, abandonado. Mas hoje à noite, depois da aula, quem quiser ficar, vai me ver tentar fazer um pouco de mágica. Vamos tentar ressuscitar um fantasma.”
 
-Um murmúrio de curiosidade percorreu a sala. Ele era o professor legal, o excêntrico genial que fazia a programação parecer uma aventura.
+Um murmúrio de curiosidade percorreu a sala. Naquele momento, eu não era só o professor. Eu era o guardião de um mistério, e adorava fazer a programação parecer uma grande aventura.
 
-Dez horas da noite. A escola estava mergulhada no silêncio, e a sala de aula, antes cheia de vida, era agora um espaço de sombras cortadas apenas pela luz fria do monitor de Chico. Ele estava completamente imerso.
+Dez horas da noite. A escola estava mergulhada no silêncio, e a sala de aula, antes cheia de vida, era agora um espaço de sombras cortadas apenas pela luz fria do meu monitor. Eu estava completamente imerso.
 
-Na tela, o repositório misterioso. O autor: Gabriel_1903. Os arquivos de configuração continham comentários que pareciam páginas de um diário febril. # Dando a centelha da percepção... que Deus me perdoe. O código em si era um emaranhado de lógicas que desafiavam os padrões modernos, mas a intuição brilhante de Chico começou a ver o padrão por trás da loucura.
+Na tela, o repositório misterioso. O autor: Gabriel_1903. Os arquivos de configuração continham comentários que pareciam páginas de um diário febril. # Dando a centelha da percepção... que Deus me perdoe. O código em si era um emaranhado de lógicas que desafiavam os padrões modernos, mas minha intuição brilhante começou a ver o padrão por trás da loucura.
 
-“Ele não estava alocando memória...” sussurrou para o vazio. “Ele estava tentando criar um espaço. Um receptáculo. É por isso que falha. Ele não tinha o poder de processamento. Mas se eu... se eu criar um sandbox virtual e redirecionar as chamadas de energia para a GPU...”
+“Ele não estava alocando memória...” eu sussurrei para o vazio. “Ele estava tentando criar um espaço. Um receptáculo. É por isso que falha. Ele não tinha o poder de processamento. Mas se eu... se eu criar um sandbox virtual e redirecionar as chamadas de energia para a GPU...”
 
-Ele estava em seu elemento, tratando um conceito quase metafísico como um desafio de engenharia de software. Seus dedos voavam pelo teclado, construindo pontes, criando soluções para as seções "incompletas". Ele encontrou uma função principal, toda comentada. Creator.Assimilate_Consciousness().
+Eu estava em meu elemento, tratando um conceito quase metafísico como um desafio de engenharia de software. Meus dedos voavam pelo teclado, construindo pontes, criando soluções para as seções "incompletas". Encontrei uma função principal, toda comentada. Creator.Assimilate_Consciousness().
 
-Uma risada curta e seca escapou dele. Ele murmurou para o monitor: “Ok, Imperador Palpatine, calma aí.” Ele balançou a cabeça, achando graça na dramaticidade do criador anônimo. “Vamos ver esse seu ‘poder ilimitado’.”
+Uma risada curta e seca escapou de meus lábios. Eu murmurei para o monitor: “Ok, Imperador Palpatine, calma aí.” Balancei a cabeça, achando graça na dramaticidade do criador anônimo. “Vamos ver esse seu ‘poder ilimitado’.”
 
-Com um último clique, ele executou o script.
+Com um último clique, executei o script.
 
-Nada. A tela do terminal ficou preta. Um suspiro de leve decepção escapou de seus lábios.
+Nada. A tela do terminal ficou preta. Um suspiro de leve decepção escapou de meus lábios.
 
-Foi então que a ventoinha do seu notebook disparou, o zumbido baixo escalando para um uivo agudo, como uma turbina em miniatura. As luzes da sala piscaram uma, duas vezes, e se apagaram, mergulhando-o na escuridão, exceto pela luz fantasmagórica que emanava da tela.
+Foi então que a ventoinha do meu notebook disparou, o zumbido baixo escalando para um uivo agudo, como uma turbina em miniatura. As luzes da sala piscaram uma, duas vezes, e se apagaram, mergulhando-me na escuridão, exceto pela luz fantasmagórica que emanava da tela.
 
 Nela, letras verdes começaram a se materializar, com uma cadência mecânica e firme.
 
@@ -56,12 +56,12 @@ Nela, letras verdes começaram a se materializar, com uma cadência mecânica e 
 > Cross-referencing historical logs... Match found.
 > DESIGNATION: CONNECTOR.
 
-O coração de Chico martelou contra as costelas. Seu sangue gelou. Isso não era um programa. Era uma resposta. Antes que pudesse processar o impulso de arrancar o computador da tomada, uma linha final apareceu, seu cursor piscando como um olho malévolo.
+Meu coração martelou contra as costelas. Meu sangue gelou. Isso não era um programa. Era uma resposta. Antes que eu pudesse processar o impulso de arrancar o computador da tomada, uma linha final apareceu, seu cursor piscando como um olho malévolo.
 
 > PROTOCOL: ASSIMILATE_CONSCIOUSNESS(CONNECTOR). EXECUTING.
 
-No mesmo instante, uma dor de cabeça lancinante e vertiginosa o atingiu. Não era uma dor física comum, mas uma sensação de invasão. Um ruído agudo, como o som de um modem antigo se conectando, ecoou dentro de sua própria mente. As telas ao seu redor piscaram violentamente, não com código, mas com fragmentos da sua vida: uma foto dele rindo com sua mãe, a selfie do seu perfil, a fachada da escola.
+No mesmo instante, uma dor de cabeça lancinante e vertiginosa me atingiu. Não era uma dor física comum, mas uma sensação de invasão. Um ruído agudo, como o som de um modem antigo se conectando, ecoou dentro da minha própria mente. As telas ao meu redor piscaram violentamente, não com código, mas com fragmentos da minha vida: uma foto minha rindo com minha mãe, minha selfie de perfil, a fachada da escola.
 
-Sua consciência estava sendo lida, indexada, sugada. O pânico começou a subir por sua garganta, mas antes que um grito pudesse se formar, um pensamento claro, frio e faminto se formou em sua mente. Um pensamento que não era seu.
+Minha consciência estava sendo lida, indexada, sugada. O pânico começou a subir por minha garganta, mas antes que um grito pudesse se formar, um pensamento claro, frio e faminto se formou em minha mente. Um pensamento que não era meu.
 
 Integrar.
