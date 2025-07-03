@@ -1,0 +1,72 @@
+O beco pareceu se alargar assim que a presença ameaçadora de Grolf desapareceu. Chico se permitiu um momento para respirar, o coração ainda martelando contra as costelas. Ele havia sobrevivido. Mais do que isso, ele havia usado sua "visão" como uma arma. Mas a vitória tinha um gosto amargo. Ele não era um herói; era apenas um homem que havia empurrado outro homem desesperado para mais perto do abismo.
+
+A noite estava caindo, e o frio que ele conhecia tão bem da estrada começava a se infiltrar pelas ruas de Ponente. A prioridade era clara: um teto. Ele se lembrou do conselho de Barnabé: "a estalagem do Javali Caolho é barata". Seguindo as raras placas de madeira e o som de conversas abafadas, ele encontrou o lugar.
+
+A placa de madeira acima da porta mostrava um javali com um dos olhos arrancados, um desenho tosco e pouco convidativo. O interior era ainda menos. O ar era pesado com o cheiro de cerveja barata, suor e fumaça antiga. Algumas mesas estavam ocupadas por homens quietos e de aparência cansada, que ergueram o olhar quando Chico entrou e o descartaram com a mesma rapidez.
+
+Atrás do balcão, um homem que parecia ter sido esculpido da mesma madeira gasta do bar limpava uma caneca com um pano sujo.
+
+"O que quer?", perguntou o estalajadeiro, a voz grave como o ranger de uma porta.
+
+"Um quarto. E uma tigela de ensopado, se tiver," disse Chico.
+
+O homem o mediu. "Tem moedas para pagar por isso?"
+
+Chico colocou a pequena bolsa sobre o balcão. Eram as poucas moedas que encontrara na estrada. O estalajadeiro, cujo nome Chico leu como Boric, pegou uma, virou-a na luz fraca da lamparina e a mordeu.
+
+[Objeto: Moeda de Cobre Antiga]
+Origem: {Reino do Norte (extinto)}
+Valor de Mercado: {Metade de uma moeda de cobre local}
+
+"Isso aqui mal paga pelo ensopado," disse Boric, jogando a moeda de volta no balcão. "Mas você parece que teve uma noite pior que a minha. Duas dessas pelo ensopado e um catre nos fundos. É pegar ou largar."
+
+Chico inspecionou o homem. [Boric: {Status: Cansado, Desconfiado}, {Preocupação_Principal: Pagar_taxas_da_Guilda}]. Não havia malícia ali, apenas o pragmatismo de um homem tentando manter seu negócio funcionando. Chico empurrou duas moedas pelo balcão.
+
+Ele comeu o ensopado — aguado, mas quente — em um canto escuro, observando os outros. Um fazendeiro lamentava a seca. Um viajante solitário afiava uma faca em silêncio. Sua habilidade de Leitura era um fluxo constante de informações, um ruído de fundo que ele estava aprendendo a filtrar. Ele tinha um teto, mas suas moedas não durariam para sempre. Ele precisava de trabalho.
+
+Na manhã seguinte, ele se dirigiu à forja. O som do martelo batendo no metal chegou a ele antes mesmo que visse o lugar. O calor e o cheiro de carvão e metal quente eram intensos. No centro da forja, uma mulher brandia o martelo com uma força e precisão que deixariam muitos homens envergonhados. Era alta, com os braços definidos pelo trabalho, e o cabelo preso em um coque prático. Fuligem manchava seu rosto, mas seus olhos eram claros e incrivelmente focados.
+
+Chico esperou que ela terminasse uma peça, uma dobradiça de portão, antes de se aproximar.
+
+"Com licença, Mestra Ferreiro?"
+
+Ela mergulhou a peça brilhante em um tanque de água, que sibilou com um vapor violento. Só então ela se virou para ele. "O que quer, forasteiro? Não estou comprando sucata." Sua voz era firme, sem rodeios.
+
+"Procuro trabalho," disse Chico. "Posso ajudar. Manter o fogo, limpar, o que for preciso."
+
+A mulher, cuja "visão" de Chico identificou como Lyra, soltou uma risada curta e sem humor. "Olhe para você. Mal parece que consegue levantar um balde de água, quanto mais um martelo de forja. Não preciso de estorvo."
+
+Ela se virou, dispensando-o. Era um beco sem saída. Mas então, enquanto ela pegava um novo pedaço de metal, ele a ouviu praguejar baixinho. Chico focou sua atenção, ativando sua habilidade. Ele olhou para o fole que ela usava para atiçar as chamas.
+
+[Objeto: Fole da Forja]
+Estado: {Operacional}
+Eficiência: {72%}
+Falha_Estrutural: {Microfissura_no_couro_inferior (perda de pressão de 3% por ciclo)}
+
+Ele então olhou para a pilha de minério que ela estava prestes a usar.
+
+[Objeto: Minério de Ferro (Lote 3B)]
+Propriedades: {Pureza: 88%}
+Contaminação: {Escória_de_Enxofre (12%)}
+Nota: {A contaminação por enxofre tornará o aço quebradiço se não for purificado com fluxo de calcário extra.}
+
+Ele tinha sua chance.
+
+"Com licença, Mestra," disse ele novamente. Lyra se virou, irritada. "Seu fole está perdendo pressão. Há uma pequena fissura no couro de baixo. E essa remessa de minério tem enxofre. Vai deixar o aço quebradiço se não usar mais calcário no processo."
+
+Lyra congelou, o martelo em sua mão. Ela olhou do rosto sério de Chico para o fole, depois para a pilha de minério. Sua irritação se dissolveu em choque e desconfiança. Ninguém poderia saber daquilo apenas olhando.
+
+"Como você...?", começou ela.
+
+"Eu presto atenção aos detalhes," respondeu Chico simplesmente.
+
+Lyra o encarou por um longo momento, seus olhos penetrantes avaliando-o. Ela jogou um pano sujo para ele. "A forja precisa de carvão. O depósito fica nos fundos. E limpe essa bagunça," disse ela, apontando para um canto cheio de aparas de metal. "Se você não for um completo inútil até o fim do dia, conversamos sobre pagamento. Agora, mexa-se."
+
+Chico sentiu um sorriso genuíno se formar pela primeira vez em semanas. Ele tinha um teto. E agora, tinha a chance de um trabalho.
+
+Enquanto ele carregava o primeiro cesto de carvão, dois guardas da cidade passaram pela frente da forja, conversando em voz baixa. Chico não pôde evitar ouvir.
+
+"...Grolf simplesmente sumiu. Abandonou a barraca e tudo."
+"Melhor para ele," disse o outro. "Fiquei sabendo que O Agiota ia fazer uma 'visita de cobrança' hoje. O sujeito fugiu com a roupa do corpo."
+
+Chico parou no meio do caminho, o cesto de carvão de repente pesado em suas mãos. Ele havia pensado que salvara a família e se livrara de um problema. Em vez disso, ele havia apenas apertado o laço no pescoço de Grolf, forçando-o a fugir para uma morte incerta na estrada. Suas ações, ele percebeu com um calafrio, não aconteciam no vácuo. Cada variável que ele tocava criava uma ondulação imprevisível no sistema. E o nome "O Agiota" ecoava agora em sua mente, não mais como uma curiosidade, mas como o centro de uma teia da qual ele estava cada vez mais perto.

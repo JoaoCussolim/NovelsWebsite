@@ -1,0 +1,67 @@
+O conhecimento era um fardo. Ali estava Chico, no meio de uma praça de mercado em um mundo que não era o seu, e a única coisa que sua habilidade recém-descoberta lhe oferecia era a certeza de um perigo invisível. Ele podia simplesmente virar as costas. Era a escolha lógica, a escolha do sobrevivente. O problema dos outros não era seu. Ele tinha os seus próprios, e eram mais do que suficientes.
+
+Então, ele viu a criança. Uma menina, com não mais de seis anos, que puxava a mão da mãe e apontava com entusiasmo para o espeto de carne brilhante. A família parecia cansada, provavelmente viajantes como ele, buscando apenas uma refeição quente.
+
+A imagem de sua própria mãe, frágil e dependente de seus cuidados, brilhou em sua mente. Ele não podia. A lógica do sobrevivente colidiu com a decência do homem que ele costumava ser, e a decência venceu.
+
+Ele não podia confrontar o vendedor, Grolf. Uma acusação direta de um forasteiro sujo não valeria nada. Precisava de uma alternativa, uma distração. Seus olhos varreram a praça, o "modo de depuração" ativado. Ele inspecionou as outras barracas. Frutas, pães, queijos... até que encontrou. Uma senhora idosa, com um sorriso gentil, vendia pães doces em uma pequena cesta. Ele focou.
+
+[Objeto: Pão de Mel da Tia Elara]
+Propriedades: {Qualidade: Excelente}, {Ingredientes: Frescos, Mel Local}
+Efeito: [On_Consume: Recuperação de Stamina (Leve), Status 'Satisfeito']
+
+Perfeito.
+
+Chico se aproximou da família, forçando um sorriso amigável em seu rosto barbudo. “Com licença, desculpe incomodar,” disse ele, a voz calma. A mãe se virou, a mão protetoramente no ombro da filha.
+
+“Sou novo na cidade,” ele continuou, apontando discretamente com o queixo. “É verdade o que me disseram, que os pães de mel daquela senhora são os melhores de toda a região?”
+
+O pai da menina olhou para a barraca dos pães, depois de volta para os espetos de Grolf, e então para Chico. A semente da dúvida havia sido plantada. Uma sugestão positiva era muito mais eficaz que uma acusação negativa. “Pães de mel, é? A Elara faz um bom trabalho,” disse o homem, já mudando de ideia. “Obrigado pela dica, amigo.”
+
+Eles se afastaram da barraca de Grolf. A missão de Chico estava cumprida. O alívio, no entanto, durou pouco. Do outro lado da praça, ele viu o olhar do vendedor fixo nele. Não havia gratidão naquele olhar. Apenas raiva fria e calculista.
+
+[Entidade: Grolf, o Vendedor]
+status: {irritado, hostil}
+alvo_de_hostilidade: {Francisco_Entity}
+
+Chico engoliu em seco. Era hora de sair dali. Ele se afastou do mercado, buscando as ruas mais estreitas, esperando se perder na arquitetura simples da vila. Ele sentia os olhos de Grolf em suas costas, uma pressão incômoda. Virou em uma viela que prometia ser um atalho para outra parte da cidade. Era estreita, prensada entre a parede de pedra de uma estalagem e a cerca de madeira de um quintal.
+
+Um erro.
+
+Grolf bloqueou a saída por onde ele entrou. Ele não estava sozinho. Um outro homem, igualmente corpulento, sorria de forma desagradável.
+
+“O espertinho da cidade grande,” rosnou Grolf, estalando os nós dos dedos. “Gosta de estragar os negócios dos outros, forasteiro?”
+
+O estresse e o medo fizeram a visão de Chico tremeluzir violentamente. O texto verde que normalmente era um sussurro em sua mente agora gritava. Ele olhou para Grolf, encurralado, e a quantidade de dados que viu o surpreendeu. Era mais do que antes. A pressão parecia aprofundar sua leitura.
+
+[Entidade: Grolf, o Vendedor]
+Afiliação: {Guilda dos Comerciantes (Nível Baixo)}
+Status_Financeiro: {Dívida_Pendente: 'O Agiota' (Valor: 300 moedas de prata)}
+Nível de Desespero: {Elevado}
+Nota_Pessoal: {Precisa pagar 50 moedas até o próximo ciclo lunar ou enfrentará 'reestruturação de membros'.}
+
+Reestruturação de membros. Chico não precisava de um glossário para entender o que aquilo significava. Grolf não era um monstro, era um rato encurralado, e isso o tornava ainda mais perigoso.
+
+“Eu não sei do que você está falando,” disse Chico, tentando manter a voz firme enquanto seu cérebro processava a nova informação.
+
+“Não sabe?” Grolf deu um passo à frente. “Vou refrescar sua memória.”
+
+No instante em que o vendedor avançou, a mente de Chico trabalhou em alta velocidade. Lutar era inútil. Correr era impossível. Mas ele tinha algo que Grolf não sabia que ele tinha. Informação.
+
+“Seu problema não é comigo, Grolf,” disse Chico, a voz saindo com uma calma gélida que surpreendeu até a si mesmo.
+
+Grolf parou no meio do passo. “O que você disse?”
+
+“Eu disse,” Chico continuou, olhando diretamente nos olhos do homem, “que o seu problema é com ‘O Agiota’. E vender espetos de rato-lagarto para viajantes não vai te render as cinquenta moedas de prata que você precisa até o fim do mês.”
+
+O queixo de Grolf caiu. A cor sumiu de seu rosto. O amigo ao seu lado olhou de Chico para Grolf, confuso. O medo, puro e primitivo, substituiu a raiva nos olhos do vendedor.
+
+[Grolf - status: {chocado, aterrorizado}, intenção: {reavaliar, fugir}]
+
+“Como... como você...”, gaguejou ele.
+
+“Ponente é uma cidade pequena. As pessoas falam,” mentiu Chico, sua mente correndo para encontrar uma desculpa plausível. “E elas dizem que O Agiota não gosta de desculpas.”
+
+Foi o suficiente. Grolf e seu comparsa deram dois passos para trás, não mais vendo um forasteiro magro, mas alguém com um conhecimento impossível e perigoso. Sem outra palavra, eles se viraram e saíram da viela apressadamente, desaparecendo na rua principal.
+
+Chico ficou sozinho, o corpo tremendo com a adrenalina que passava. Ele se apoiou na parede de pedra, respirando fundo. Havia funcionado. Ele havia usado a informação como um escudo, como uma arma. E ao fazer isso, havia confirmado que aquele vilarejo sonolento tinha um submundo, e ele, sem querer, acabara de chutar a porta de entrada.

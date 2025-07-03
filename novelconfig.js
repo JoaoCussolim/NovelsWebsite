@@ -8,6 +8,8 @@ const chapters = [
     { file: 'chapters/ch3.txt', title: 'Capítulo 3', subtitle: 'Projeto Gênese' },
     { file: 'chapters/ch4.txt', title: 'Capítulo 4', subtitle: 'Carroceiro Barnabé' },
     { file: 'chapters/ch5.txt', title: 'Capítulo 5', subtitle: 'Ponente' },
+    { file: 'chapters/ch6.txt', title: 'Capítulo 6', subtitle: 'O Agiota' },
+    { file: 'chapters/ch7.txt', title: 'Capítulo 7', subtitle: 'A Forja' },
 ];
 
 novelMainTitleEl.textContent = novelTitle;
